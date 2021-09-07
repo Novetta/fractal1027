@@ -1,0 +1,2 @@
+mpl_interactions[jupyter]==0.18.0
+cupy-cuda110
